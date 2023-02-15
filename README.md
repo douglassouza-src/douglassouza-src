@@ -1,7 +1,7 @@
 ### Hello everyone!
 <br>
 
-##### ...this profile is being updated />
+##### ...ThisProfileIsBeingUpdated />
 
 
 <br><hr>
