@@ -1,8 +1,6 @@
 ### Hello everyone!
 <br>
-
 ##### ...ThisProfileIsBeingUpdated />
-
   
 <br><hr>
 <div align="center">
