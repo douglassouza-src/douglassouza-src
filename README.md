@@ -16,9 +16,10 @@ ThisProfileIsBeingUpdated />
   <img height="30" width="40" alt="mui-icon" src="https://mui.com/static/logo.png">
   <img height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img height="33" width="43" alt="docker-icon" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
+  <img height="33" width="43" alt="docker-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">
   <img height="29" width="33" alt="api-icon" src="https://cdn-icons-png.flaticon.com/512/1015/1015474.png?w=826&t=st=1673637496~exp=1673638096~hmac=fec7e9db7a18d6f8f11cbf999082baa6792165c83aad479044a20a60f28eea73">&nbsp
   <img height="33" width="43" alt="sql-icon" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png">
-  <img height="33" width="43" alt="docker-icon" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="30" width="30" alt="cdr-icon" src="https://seeklogo.com/images/C/coreldraw-2019-logo-73390B2962-seeklogo.com.png">&nbsp
   <img height="30" width="30" alt="figma-icon" src="https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU">&nbsp
