@@ -9,9 +9,7 @@
 - **Bacharel em Ciências Econômicas** - *Centro Universitário Unifatecie (Formando)*  
 - **Técnico em Comércio Exterior** - *Instituição Evangélica de Novo Hamburgo*  
 <br>  
-
----
-  
+ 
 <br><hr>
 <div align="center">
   <h3><u>Knowledge</u></h3>
