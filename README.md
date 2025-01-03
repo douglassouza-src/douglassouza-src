@@ -1,14 +1,3 @@
-### Olá Rede!
-<br>
-PerfilEmConstanteAtualização /><br><br>
-
-🎓 Formação Acadêmica:<br>
-Mestrado em Ciência da Computação, Universidade Federal do Paraná (em andamento).<br>
-Pós-graduação em Full-stack Web Developer, Universidade Feevale TechPark.<br>
-Bacharel em Engenharia de Software (Back-end Developer), Universidade Pitágoras.<br>
-Bacharel em Ciências Econômicas, Centro Universitário Unifatecie (Formando).<br>
-Técnico em Comércio Exterior, Instituição Evangélica de Novo Hamburgo.<br>
-
 ### 👋 Olá, Rede!  
 🚧 **Perfil em constante atualização...** 🚧  
 <br>  
@@ -38,5 +27,22 @@ Seja bem-vindo(a) ao meu espaço! 🚀
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" /><br>
     <img src="https://skillicons.dev/icons?i=ubuntu,ai,ps" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+    <span> | </span>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" alt="DevOps Tools" />
+    <span> | </span>
+    <img src="https://skillicons.dev/icons?i=git,gitlab" alt="Version Control" />
+    <span> | </span>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,materialui" alt="Web Development" />
+    <span> | </span>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" alt="Databases" />
+    <span> | </span>
+    <img src="https://skillicons.dev/icons?i=ubuntu,ai,ps" alt="Tools & OS" />
   </a>
 </p>
