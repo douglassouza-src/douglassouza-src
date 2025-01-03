@@ -15,21 +15,10 @@
 💻 **Sempre aprendendo, criando e compartilhando!**   
 Seja bem-vindo(a) ao meu espaço! 🚀  
 
-
   
 <br><hr>
 <div align="center">
   <h3><u>Knowledge</u></h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,kubernetes,terraform,aws" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" /><br>
-    <img src="https://skillicons.dev/icons?i=ubuntu,ai,ps" />
-  </a>
-</p>
-
 
 <p align="center">
   <a href="https://skillicons.dev">
