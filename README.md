@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-    <span> | </span>
+    <span>  </span>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" alt="DevOps Tools" />
     <span> | </span>
     <img src="https://skillicons.dev/icons?i=git,gitlab" alt="Version Control" />
