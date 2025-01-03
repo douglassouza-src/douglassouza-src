@@ -13,6 +13,12 @@ Técnico em Comércio Exterior, Instituição Evangélica de Novo Hamburgo.<br>
 <br><hr>
 <div align="center">
   <h3><u>Knowledge</u></h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,kubernetes,docker,aws,html,css,js,ai,linux,materialui,mysql,mongodb,node,js,ps,postgres,prisma,terraform,ts,ubuntu,react" />
+  </a>
+</p>
   
   <img height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
