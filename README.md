@@ -1,13 +1,13 @@
 ### Hello everyone!
 <br>
-ThisProfileIsBeingUpdated />
+ThisProfileIsBeingUpdated /><br>
 
-🎓 Formação Acadêmica:
-Mestrado em Ciência da Computação, Universidade Federal do Paraná (em andamento).
-Pós-graduação em Full-stack Web Developer, Universidade Feevale TechPark.
-Bacharel em Engenharia de Software (Back-end Developer), Universidade Pitágoras.
-Bacharel em Ciências Econômicas, Centro Universitário Unifatecie (em andamento).
-Técnico em Comércio Exterior, Instituição Evangélica de Novo Hamburgo.
+🎓 Formação Acadêmica:<br>
+Mestrado em Ciência da Computação, Universidade Federal do Paraná (em andamento).<br>
+Pós-graduação em Full-stack Web Developer, Universidade Feevale TechPark.<br>
+Bacharel em Engenharia de Software (Back-end Developer), Universidade Pitágoras.<br>
+Bacharel em Ciências Econômicas, Centro Universitário Unifatecie (Formando).<br>
+Técnico em Comércio Exterior, Instituição Evangélica de Novo Hamburgo.<br>
 
   
 <br><hr>
