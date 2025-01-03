@@ -11,10 +11,6 @@
 <br>  
 
 ---
-
-💻 **Sempre aprendendo, criando e compartilhando!**   
-Seja bem-vindo(a) ao meu espaço! 🚀  
-
   
 <br><hr>
 <div align="center">
@@ -35,3 +31,5 @@ Seja bem-vindo(a) ao meu espaço! 🚀
     <img src="https://skillicons.dev/icons?i=ubuntu,ai,ps" alt="Tools & OS" />
   </a>
 </p>
+
+---
