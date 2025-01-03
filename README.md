@@ -9,6 +9,24 @@ Bacharel em Engenharia de Software (Back-end Developer), Universidade Pitágoras
 Bacharel em Ciências Econômicas, Centro Universitário Unifatecie (Formando).<br>
 Técnico em Comércio Exterior, Instituição Evangélica de Novo Hamburgo.<br>
 
+### 👋 Olá, Rede!  
+🚧 **Perfil em constante atualização...** 🚧  
+<br>  
+
+## 🎓 Formação Acadêmica  
+- **Mestrado em Ciência da Computação** - *Universidade Federal do Paraná (em andamento)*  
+- **Pós-graduação em Full-stack Web Developer** - *Universidade Feevale TechPark*  
+- **Bacharel em Engenharia de Software** *(Back-end Developer)* - *Universidade Pitágoras*  
+- **Bacharel em Ciências Econômicas** - *Centro Universitário Unifatecie (Formando)*  
+- **Técnico em Comércio Exterior** - *Instituição Evangélica de Novo Hamburgo*  
+<br>  
+
+---
+
+💻 **Sempre aprendendo, criando e compartilhando!**   
+Seja bem-vindo(a) ao meu espaço! 🚀  
+
+
   
 <br><hr>
 <div align="center">
