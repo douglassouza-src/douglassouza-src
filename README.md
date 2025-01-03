@@ -15,17 +15,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    🚀 <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-    <br>  
-    ⚙️ <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" alt="DevOps Tools" />
-    <br>  
-    🛠️ <img src="https://skillicons.dev/icons?i=git,gitlab" alt="Version Control" />
-    <br>  
-    🖥️ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,materialui" alt="Web Development" />
-    <br>  
-    🗄️ <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" alt="Databases" />
-    <br>  
-    🎨 <img src="https://skillicons.dev/icons?i=ubuntu,ai,ps" alt="Tools & OS" />
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+    <span> | </span>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" alt="DevOps Tools" />
+    <span> | </span>
+    <img src="https://skillicons.dev/icons?i=git,gitlab" alt="Version Control" />
+    <span> | </span>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,materialui" alt="Web Development" />
+    <span> | </span>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" alt="Databases" />
+    <span> | </span>
+    <img src="https://skillicons.dev/icons?i=ubuntu,ai,ps" alt="Tools & OS" />
   </a>
 </p>
 
