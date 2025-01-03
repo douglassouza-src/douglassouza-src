@@ -27,7 +27,7 @@ Técnico em Comércio Exterior, Instituição Evangélica de Novo Hamburgo.<br>
   <img height="33" width="43" alt="docker-icon" src="https://cdn.worldvectorlogo.com/logos/docker.svg">&nbsp
   <img height="25" width="40" alt="docker-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">&nbsp
   <img height="29" width="33" alt="api-icon" src="https://cdn-icons-png.flaticon.com/512/1015/1015474.png?w=826&t=st=1673637496~exp=1673638096~hmac=fec7e9db7a18d6f8f11cbf999082baa6792165c83aad479044a20a60f28eea73">&nbsp
-  <img height="33" width="43" alt="sql-icon" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png">
+  <img height="33" width="43" alt="sql-icon" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="30" width="30" alt="cdr-icon" src="https://img.icons8.com/fluent/600/coreldraw-2021.png">&nbsp
   <img height="30" width="30" alt="figma-icon" src="https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU">&nbsp
