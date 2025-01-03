@@ -22,7 +22,7 @@ Técnico em Comércio Exterior, Instituição Evangélica de Novo Hamburgo.<br>
   <img height="30" width="40" alt="ts-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="30" width="40" alt="mui-icon" src="https://mui.com/static/logo.png">
-  <img height="30" width="40" alt="nodejs-icon" src="https://banner2.cleanpng.com/20180701/bvt/aaxf47zih.webp">
+  <img height="30" width="40" alt="nodejs-icon" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="33" width="43" alt="docker-icon" src="https://cdn.worldvectorlogo.com/logos/docker.svg">&nbsp
   <img height="25" width="40" alt="docker-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">&nbsp
