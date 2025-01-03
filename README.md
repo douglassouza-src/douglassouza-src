@@ -1,6 +1,6 @@
 ### Olá Rede!
 <br>
-PerfilSendoAtualizado /><br><br>
+PerfilEmConstanteAtualização /><br><br>
 
 🎓 Formação Acadêmica:<br>
 Mestrado em Ciência da Computação, Universidade Federal do Paraná (em andamento).<br>
