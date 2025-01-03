@@ -1,6 +1,14 @@
 ### Hello everyone!
 <br>
 ThisProfileIsBeingUpdated />
+
+🎓 Formação Acadêmica:
+Mestrado em Ciência da Computação, Universidade Federal do Paraná (em andamento).
+Pós-graduação em Full-stack Web Developer, Universidade Feevale TechPark.
+Bacharel em Engenharia de Software (Back-end Developer), Universidade Pitágoras.
+Bacharel em Ciências Econômicas, Centro Universitário Unifatecie (em andamento).
+Técnico em Comércio Exterior, Instituição Evangélica de Novo Hamburgo.
+
   
 <br><hr>
 <div align="center">
@@ -21,7 +29,7 @@ ThisProfileIsBeingUpdated />
   <img height="29" width="33" alt="api-icon" src="https://cdn-icons-png.flaticon.com/512/1015/1015474.png?w=826&t=st=1673637496~exp=1673638096~hmac=fec7e9db7a18d6f8f11cbf999082baa6792165c83aad479044a20a60f28eea73">&nbsp
   <img height="33" width="43" alt="sql-icon" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img height="30" width="30" alt="cdr-icon" src="https://seeklogo.com/images/C/coreldraw-2019-logo-73390B2962-seeklogo.com.png">&nbsp
+  <img height="30" width="30" alt="cdr-icon" src="https://img.icons8.com/fluent/600/coreldraw-2021.png">&nbsp
   <img height="30" width="30" alt="figma-icon" src="https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU">&nbsp
   <img height="30" width="30" alt="ps-icon" src="https://cdn-icons-png.flaticon.com/512/541/541586.png">
   </div><br><hr>
