@@ -4,7 +4,7 @@
 
 ## 🎓 Formação Acadêmica  
 - **Mestrado em Ciência da Computação** - *Universidade Tecnológica Federal do Paraná (em andamento)*  
-- **Pós-graduação em Full-stack Web Developer** - *Universidade Feevale TechPark*  
+- **Pós-graduação em Full-stack Web Developer** - *Universidade Feevale*  
 - **Bacharel em Engenharia de Software** *(Back-end Developer)* - *Universidade Pitágoras*  
 - **Bacharel em Ciências Econômicas** - *Centro Universitário Unifatecie (Formando)*  
 - **Técnico em Comércio Exterior** - *Instituição Evangélica de Novo Hamburgo*  
